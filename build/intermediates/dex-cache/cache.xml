@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\gunje\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\4521b7f52482aa459b223453bd0de34b\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="E:\My Android Projects\fastcleaner\Main File\Fast Cleaner &amp; Battery Saver\app\build\intermediates\transforms\preDex\release\31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gunje\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="E:\My Android Projects\fastcleaner\Main File\Fast Cleaner &amp; Battery Saver\app\build\intermediates\transforms\preDex\release\41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gunje\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\3717f6bb6a49a97dae580fa87ad82474\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="E:\My Android Projects\fastcleaner\Main File\Fast Cleaner &amp; Battery Saver\app\build\intermediates\transforms\preDex\release\29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gunje\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\c03845977959b517683dcf6d3edc2bf7\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="E:\My Android Projects\fastcleaner\Main File\Fast Cleaner &amp; Battery Saver\app\build\intermediates\transforms\preDex\release\26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gunje\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\645ab204a1564f74d5ad4f1ee880a007\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="E:\My Android Projects\fastcleaner\Main File\Fast Cleaner &amp; Battery Saver\app\build\intermediates\transforms\preDex\release\33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gunje\.gradle\caches\transforms-1\files-1.1\explosionfield-1.0.1.aar\b363df0b55a76df1204c065226efe6c2\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f82998f0794dfe2b65edd561ac0b34b536e7ff9a">
+        <dex dex="E:\My Android Projects\fastcleaner\Main File\Fast Cleaner &amp; Battery Saver\app\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gunje\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\df6460509d63ab0915b5e616256631f1\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="E:\My Android Projects\fastcleaner\Main File\Fast Cleaner &amp; Battery Saver\app\build\intermediates\transforms\preDex\release\39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gunje\.gradle\caches\transforms-1\files-1.1\library-0.3.5.aar\7b1030655e74bfae1dbc2ef322ee51cd\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7640cb27a27ed97bf5f9f808e9cf57cf8df56a63">
+        <dex dex="E:\My Android Projects\fastcleaner\Main File\Fast Cleaner &amp; Battery Saver\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gunje\.gradle\caches\transforms-1\files-1.1\recyclerview-animators-2.2.5.aar\18058183bc06efd85febb4f59f7b771a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="215abfa2b78865741d99f7b9c0afb79894986505">
+        <dex dex="E:\My Android Projects\fastcleaner\Main File\Fast Cleaner &amp; Battery Saver\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gunje\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.4.0.aar\ad6863f8e3d8ead7feba9e5c5c303bb9\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="E:\My Android Projects\fastcleaner\Main File\Fast Cleaner &amp; Battery Saver\app\build\intermediates\transforms\preDex\release\17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gunje\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\My Android Projects\fastcleaner\Main File\Fast Cleaner &amp; Battery Saver\app\build\intermediates\transforms\preDex\release\25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gunje\.gradle\caches\transforms-1\files-1.1\library-2.1.3.aar\2c5997381e6e793b493e017506dc9142\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e699699fae0092703de1d02b217f43803d0f7e0a">
+        <dex dex="E:\My Android Projects\fastcleaner\Main File\Fast Cleaner &amp; Battery Saver\app\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gunje\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\b9f0aa23205eaa9805d83eac74716732\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="E:\My Android Projects\fastcleaner\Main File\Fast Cleaner &amp; Battery Saver\app\build\intermediates\transforms\preDex\release\28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gunje\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\d34bc61d278ce3bf38c7a93b9fb33fa5\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="E:\My Android Projects\fastcleaner\Main File\Fast Cleaner &amp; Battery Saver\app\build\intermediates\transforms\preDex\release\35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gunje\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="E:\My Android Projects\fastcleaner\Main File\Fast Cleaner &amp; Battery Saver\app\build\intermediates\transforms\preDex\release\38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gunje\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\703aa3e5c5596bfe262a51b54b8c6c4c\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="E:\My Android Projects\fastcleaner\Main File\Fast Cleaner &amp; Battery Saver\app\build\intermediates\transforms\preDex\release\36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gunje\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\484f77b94001ded5d0a2d0efc95a4713\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="E:\My Android Projects\fastcleaner\Main File\Fast Cleaner &amp; Battery Saver\app\build\intermediates\transforms\preDex\release\30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gunje\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\c85659796c1b1be1902df4cd24ffc86e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="E:\My Android Projects\fastcleaner\Main File\Fast Cleaner &amp; Battery Saver\app\build\intermediates\transforms\preDex\release\27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gunje\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="E:\My Android Projects\fastcleaner\Main File\Fast Cleaner &amp; Battery Saver\app\build\intermediates\transforms\preDex\release\40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gunje\.gradle\caches\transforms-1\files-1.1\Android-SpinKit-1.1.0.aar\caacd7bbb6f359bdcbb4f2305e3885fd\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="21c0f1b0de29bfe601028757c5cb125c343f5164">
+        <dex dex="E:\My Android Projects\fastcleaner\Main File\Fast Cleaner &amp; Battery Saver\app\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gunje\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\cf7d6243beb59937a13c52177db79b02\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="E:\My Android Projects\fastcleaner\Main File\Fast Cleaner &amp; Battery Saver\app\build\intermediates\transforms\preDex\release\37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gunje\.gradle\caches\transforms-1\files-1.1\android-DecoView-charting-v1.2.aar\ce431a221f1531a56e2cde4ee057c138\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d3db3fc2b65bcb63276a455085d4f4884cdadb44">
+        <dex dex="E:\My Android Projects\fastcleaner\Main File\Fast Cleaner &amp; Battery Saver\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gunje\.gradle\caches\transforms-1\files-1.1\sdp-android-1.0.4.aar\28a8af3b6449f20f686da77adb40a511\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="11262f887015dc774ff36eb66698308df0a376d1">
+        <dex dex="E:\My Android Projects\fastcleaner\Main File\Fast Cleaner &amp; Battery Saver\app\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gunje\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\cb0f1a5002a7f07ca4b2cd7597f9f377\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\My Android Projects\fastcleaner\Main File\Fast Cleaner &amp; Battery Saver\app\build\intermediates\transforms\preDex\release\32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gunje\.gradle\caches\transforms-1\files-1.1\library-1.0.1.aar\0f59c28030bc2dc1be7f30ec944bd024\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5a7cf2a41aedccc427107ebb37762a5e2f5be590">
+        <dex dex="E:\My Android Projects\fastcleaner\Main File\Fast Cleaner &amp; Battery Saver\app\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gunje\.gradle\caches\transforms-1\files-1.1\brokenview-1.0.3.aar\7bcd7164922af996bcb3a6e20ec28d03\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="97a447e8dbdfb375916607aaba92b07c26eae4e1">
+        <dex dex="E:\My Android Projects\fastcleaner\Main File\Fast Cleaner &amp; Battery Saver\app\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gunje\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\3361db105e8a5874681621ede4c220c9\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="E:\My Android Projects\fastcleaner\Main File\Fast Cleaner &amp; Battery Saver\app\build\intermediates\transforms\preDex\release\34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gunje\.gradle\caches\transforms-1\files-1.1\play-services-ads-8.4.0.aar\34c041f7a1aae0c9427f3bed15adcf61\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="E:\My Android Projects\fastcleaner\Main File\Fast Cleaner &amp; Battery Saver\app\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+
+</items>

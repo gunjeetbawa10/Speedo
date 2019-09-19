@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\My Android Projects\\fastcleaner\\Main File\\Fast Cleaner & Battery Saver\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-pa-rIN\\values-pa-rIN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\gunje\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-8.4.0.aar\\ad6863f8e3d8ead7feba9e5c5c303bb9\\res\\values-pa-rIN\\common_strings.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "170",
+                        "endColumns": "258",
+                        "endOffsets": "424"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "254",
+                        "endOffsets": "355"
+                    }
+                }
+            ]
+        }
+    ]
+}

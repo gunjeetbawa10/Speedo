@@ -1,0 +1,4 @@
+#Fri Aug 10 20:41:39 IST 2018
+base.0=E\:\\My Android Projects\\fastcleaner\\Main File\\Fast Cleaner & Battery Saver\\app\\build\\intermediates\\transforms\\dex\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
